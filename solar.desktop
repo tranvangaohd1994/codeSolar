@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Solar
+Comment=Solar Project
+Exec=python3 /home/pi/Desktop/20180205_bk/my21.py
+Icon=/home/pi/Desktop/20180205_bk/tree.ico
+Terminal=true
+Type=Application
+Categories=Application;
+
+#ps -fA | grep python3
+#kill 620
